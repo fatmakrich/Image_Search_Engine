@@ -1,0 +1,20 @@
+/* Footer */
+.footer {
+    background-color: #333;  /* Fond sombre pour le footer */
+    color: white;  /* Texte en blanc */
+    text-align: center;  /* Centrer le texte */
+    padding: 20px 0;  /* Espacement intérieur du footer */
+    position: relative;  /* Positionner le footer correctement */
+    bottom: 0;  /* Fixer le footer en bas de la page */
+    width: 100%;  /* La largeur du footer prend toute la page */
+    font-size: 1rem;  /* Taille de police modérée */
+    border-top: 2px solid rgba(255, 255, 255, 0.3);  /* Ligne de séparation subtile en haut du footer */
+  }
+  
+  /* Text Style for Footer */
+  .footer p {
+    margin: 0;  /* Retirer les marges du paragraphe */
+    font-size: 1rem;  /* Taille de texte pour le pied de page */
+    opacity: 0.8;  /* Légère transparence pour un effet plus doux */
+  }
+  
